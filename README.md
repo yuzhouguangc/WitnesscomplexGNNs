@@ -18,6 +18,9 @@
 
 #### 6. Transformer $\sim$ PI
 
+### Design an attack strategy based on topological-based nodes' properties (e.g., higher persistence)
+#### optimize $\epsilon$, how to select landmarks (remove the backbone nodes).
+
 ### Requirements:
 - python >= 3.9
 - pip3 install cython
